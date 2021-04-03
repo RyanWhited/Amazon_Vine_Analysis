@@ -29,7 +29,7 @@ In this project I had access to approximately 50 datasets. Each one contained re
 
   - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-  ![total_vine_reviews](https://github.com/RyanWhited/Amazon_Vine_Analysis/blob/main/resources/total_vine_reviews.jpg)
+  ![five_star_percentage](https://github.com/RyanWhited/Amazon_Vine_Analysis/blob/main/resources/five_star_percentage.jpg)
 
 
 ## Summary
