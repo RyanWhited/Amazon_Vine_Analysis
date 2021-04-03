@@ -36,4 +36,4 @@ In this project I had access to approximately 50 datasets. Each one contained re
 
 Based on these results, it appears that there's no positivity bias for reviews in the Vine program as the percentage of 5-star reviews from Vine members was only 34% and for non-members 48%. 
 
-Another analysis I would consider factoring in is filtering the verified_purchase column to make sure we're more accurate as we would on
+Another analysis I would consider is filtering the verified_purchase column to make sure we're including only verified purchasers for more accurracy in our reporting. 
